@@ -1,0 +1,4 @@
+Fitur:
+	-add Todo List (by "enter" or "add" button)
+	-delete Todo List (hit "delete" icon)
+	-modify Todo List 

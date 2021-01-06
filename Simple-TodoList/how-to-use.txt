@@ -1,0 +1,3 @@
+How to use:
+1. add some todo lists by clicking + button or 'enter'
+2. erase todo list by clicking it
